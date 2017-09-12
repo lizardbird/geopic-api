@@ -1,0 +1,11 @@
+[
+  {
+    "title" : "String",
+    "photographer" : "String",
+    "description" : "String",
+    "filestackUrl" : "String",
+    "lat" : 42,
+    "long" : 42,
+    "tags" : ["string 1", "string 2", "string 3"]
+  }
+]
